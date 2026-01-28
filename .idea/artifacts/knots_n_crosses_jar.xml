@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="knots-n-crosses:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/knots_n_crosses_jar</output-path>
+    <root id="archive" name="knots-n-crosses.jar">
+      <element id="module-output" name="knots-n-crosses" />
+    </root>
+  </artifact>
+</component>
